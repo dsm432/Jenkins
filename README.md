@@ -6,6 +6,8 @@ A very basic calculator application created with Java **Swing**.
 ## Thank You!
 Please ⭐️ this repo and share it with others
 
+## I installed Jenkins and maven and executed this command today
+
 ### Screenshots
 Scientific / Dark |  Standard / Colored
 :------------------:|:-------------------
